@@ -12,4 +12,6 @@ This repository contains the project code developed during the Shanghai Hackatho
 
 AG2A is a library for AutoGen (AG2) agents with MCP capabilities exposed as A2A agents.
 
+### [MCP](https://github.com/istarwyh/mcpadvisor)
 
+MCP Advisor is a discovery & recommendation service that helps you explore Model Context Protocol servers.
